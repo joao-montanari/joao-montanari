@@ -2,7 +2,7 @@
 
 - 🎓 I am a technical student in Systems Development.
 - 💼 Currently working with development of systems for process automation.
-- 🔨 Technical training in mechatronics.
+- 🔨 Technical in mechatronics.
 - 👓 Computer science student.
 
 ##
