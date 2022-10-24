@@ -1,9 +1,9 @@
 ## Hello, I'm João Vitor Montanari! 👋
 
-- 🎓 I am a technical student in Systems Development.
-- 💼 Currently working with development of systems for process automation.
-- 🔨 Technical in mechatronics.
-- 👓 Computer science student.
+- 🎓 Systems Development apprentice at Robert Bosch.
+- 💼 Currently working with systems development and automation processes.
+- 🔨 Graduated in mechatronics (2020-21).
+- 👓 Computer science university student.
 
 ##
 
