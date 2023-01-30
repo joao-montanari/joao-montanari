@@ -27,13 +27,15 @@
 </div>
   
 <br>
+<details>
 <summary>Other technologies</summary>
 <br>
 
 <div style="display: inline_block">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
+</details>
+  
 ##
 
 <div>
