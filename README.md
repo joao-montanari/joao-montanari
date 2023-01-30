@@ -35,6 +35,7 @@
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Joao-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
 </div>
 </details>
   
