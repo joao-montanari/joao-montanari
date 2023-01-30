@@ -25,6 +25,14 @@
   <img align="center" alt="Joao-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+  
+<br>
+<summary>Other technologies</summary>
+<br>
+
+<div style="display: inline_block">
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ##
 
